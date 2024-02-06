@@ -16,6 +16,7 @@
 		A58E77472B1CBCCF00CACF2E /* Dice__Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A58E77462B1CBCCF00CACF2E /* Dice__Tests.swift */; };
 		A58E77512B1CBCCF00CACF2E /* Dice__UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A58E77502B1CBCCF00CACF2E /* Dice__UITests.swift */; };
 		A58E77532B1CBCCF00CACF2E /* Dice__UITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A58E77522B1CBCCF00CACF2E /* Dice__UITestsLaunchTests.swift */; };
+		A58E77602B1CBCEB00CACF2E /* dicemusic.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A58E775F2B1CBCEB00CACF2E /* dicemusic.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		A58E774C2B1CBCCF00CACF2E /* Dice吹牛UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Dice吹牛UITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		A58E77502B1CBCCF00CACF2E /* Dice__UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Dice__UITests.swift; sourceTree = "<group>"; };
 		A58E77522B1CBCCF00CACF2E /* Dice__UITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Dice__UITestsLaunchTests.swift; sourceTree = "<group>"; };
+		A58E775F2B1CBCEB00CACF2E /* dicemusic.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = dicemusic.mp3; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,6 +106,7 @@
 				A58E77332B1CBCCD00CACF2E /* ViewController.swift */,
 				A58E77352B1CBCCD00CACF2E /* Main.storyboard */,
 				A58E77382B1CBCCF00CACF2E /* Assets.xcassets */,
+				A58E775F2B1CBCEB00CACF2E /* dicemusic.mp3 */,
 				A58E773A2B1CBCCF00CACF2E /* LaunchScreen.storyboard */,
 				A58E773D2B1CBCCF00CACF2E /* Info.plist */,
 			);
@@ -234,6 +237,7 @@
 				A58E773C2B1CBCCF00CACF2E /* LaunchScreen.storyboard in Resources */,
 				A58E77392B1CBCCF00CACF2E /* Assets.xcassets in Resources */,
 				A58E77372B1CBCCD00CACF2E /* Main.storyboard in Resources */,
+				A58E77602B1CBCEB00CACF2E /* dicemusic.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
